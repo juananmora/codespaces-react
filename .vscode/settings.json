@@ -1,0 +1,4 @@
+{
+    "snyk.advanced.customEndpoint": "https://app.snyk.io/api",
+    "snyk.advanced.organization": "juananmora"
+}
